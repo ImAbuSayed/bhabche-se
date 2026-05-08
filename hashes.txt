@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhabche Se
+
+This log tracks the cryptographic history and versioning for the song **Bhabche Se** (bhabche-se).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:04:46.286044 | `v1` | `1146eca50e3e321209b8abcfbc0901815f16fce468ba38a236ec37aa948e915c` | `688c9360783b36f93830297ca8d37834aee0d6e1850aed5cb9d101eff47e7a10` | `2026-05-08_bhabche-se-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
